@@ -4,7 +4,7 @@ import "./home.css"
 const Data = () => {
   return (
     <div className="home__data">
-        <h1 className="home__title">Ansh Minchekar
+        <h1 className="home__title">Ansh Kamble
         </h1>
         <h3 className="home__subtitle">Web3 Developer</h3>
         <p className="home__description">Hi there! I'm currently learning and building in Web3.</p>
